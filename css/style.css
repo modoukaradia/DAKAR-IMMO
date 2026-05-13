@@ -1230,12 +1230,17 @@ footer i {
         justify-content: space-between;
         position: fixed;
         margin-bottom: 0px;
+        width: 100%;
 
     }
     .logo img {
         height: 60px;
         margin-left: 25px;
         
+    }
+    .hero{
+        width: 100%;
+        margin: 30px auto;
     }
      
     .hero-image {
@@ -1267,13 +1272,16 @@ footer i {
         text-align: center;
     }
     .bt1 {
-        width: 90%;
+        width: 80%;
         display: flex;
         align-items: center;
         justify-content: center;
         height: 30px;
       
         
+    }
+    p {
+        font-size: 10px;
     }
     .bt2 {
         width: 95%;
