@@ -19,10 +19,13 @@ Dakar Immo est un site immobilier moderne permettant de rechercher, vendre et lo
 
 bash
 dakar-immo/
-├── index.html
-├── css/
-├── images/
-└── README.md
+     index.html
+     biens.html
+     about.html
+     service.html
+     contact.html
+     css/style.css
+     readme.md
 
 
 ## Auteur
